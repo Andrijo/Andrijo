@@ -23,17 +23,17 @@ Student by day 🌞, developer attempt at night 🌃
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="auto"/>          
 </p>
 
+
+###
+<img align="right" height="150" src="https://i.pinimg.com/originals/38/8d/93/388d93851779cd84d9d6ff7967d95388.gif"  alt="Makanouchi Ippo" />
+
 <h3>Learning...</h3>
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="Amazon Web Services"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"width="50" height="50" alt="Astro" />
 </p>
 
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/38/8d/93/388d93851779cd84d9d6ff7967d95388.gif"  alt="Makanouchi Ippo" />
 
 ###
 <h3>Contact me:</h3>
