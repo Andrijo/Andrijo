@@ -1,7 +1,5 @@
-<h1 align="center">Hello There!🫶 I´m Andy</h1>
-<h2 align="center">
-Student by day 🌞, developer attempt at night 🌃  
-</h2>
+<h1 align="center">Hello There!🫶 I´m Andy <span><br><br>Student by day 🌞, developer attempt at night 🌃  </span></h1>
+
 
 <h3>Technologies i have worked with:</h3>
 <p align="center">
