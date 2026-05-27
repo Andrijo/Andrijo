@@ -22,19 +22,19 @@
 
 <h2 align="center"><em>About  me </em></h2>
 
-<table border="0" cellspacing="0" cellpadding="20">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="middle" rowspan="2">
-      <img src="IPPOGOD.gif" width="250" alt="Ippo"/>
-    </td>
-    <td align="right" valign="middle">
+    <td align="left" valign="middle">
       <p>
         Hello There! <em><b>I'm Andy Espino</b></em>, a student by day 🌞 and developer attempt at night 🌃. I enjoy learning new technologies and building fun projects with JavaScript, React, Node.js and more.
       </p>
     </td>
+     <td align="center" valign="middle" rowspan="2">
+      <img src="IPPOGOD.gif" width="425" alt="Ippo"/>
+    </td>
   </tr>
   <tr>
-    <td align="right" valign="middle">
+    <td align="left" valign="middle">
       <p>
         <em><b>Frontend:</b></em> HTML, CSS, JavaScript, TailwindCSS, Bootstrap <br/>
         <em><b>Backend:</b></em> Node.js, Express, Java, PHP <br/>
