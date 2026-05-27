@@ -22,21 +22,28 @@
 
 <h2 align="center"><em>About  me </em></h2>
 
-<img src="IPPOGOD.gif" width="250" align="right" style="margin-left: 20px;" alt="Ippo"/>
-<br/>
-
-<p>
-  Hello There! <em><b> I'm Andy Espino </b></em>, a student by day 🌞 and developer attempt at night 🌃. I enjoy learning new technologies and building fun projects with JavaScript, React, Node.js and more.
-</p>
-
-<br/>
-
-<p align="center">
-    <em><b> Frontend: HTML, CSS, JavaScript, TailwindCSS, Bootstrap </b></em> <br/>
-     <em><b> Backend: Node.js, Express, Java, PHP </b></em><br/>
-      <em><b> Databases: MySQL, MongoDB, Supabase </b></em><br/>
-      <em><b> Learning: React, Astro & AWS </b></em><br/>
-</p>
+<table border="0" cellspacing="0" cellpadding="20">
+  <tr>
+    <td align="center" valign="middle" rowspan="2">
+      <img src="IPPOGOD.gif" width="250" alt="Ippo"/>
+    </td>
+    <td align="right" valign="middle">
+      <p>
+        Hello There! <em><b>I'm Andy Espino</b></em>, a student by day 🌞 and developer attempt at night 🌃. I enjoy learning new technologies and building fun projects with JavaScript, React, Node.js and more.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <p>
+        <em><b>Frontend:</b></em> HTML, CSS, JavaScript, TailwindCSS, Bootstrap <br/>
+        <em><b>Backend:</b></em> Node.js, Express, Java, PHP <br/>
+        <em><b>Databases:</b></em> MySQL, MongoDB, Supabase <br/>
+        <em><b>Learning:</b></em> React, Astro & AWS
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
