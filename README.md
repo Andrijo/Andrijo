@@ -1,4 +1,4 @@
-<img src = "GODPIECE.png" alt="God Piece"/>
+<img src="GODPIECE.png" alt="God Piece"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vndrijo/" target="_blank">
@@ -20,34 +20,28 @@
 
 <br>
 
-<h2 align="center"><em>About  me </em></h2>
+<h2 align="center"><em>About me</em></h2>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" valign="middle">
-      <p>
-        Hello There! <em><b>I'm Andy Espino</b></em>, a student by day 🌞 and developer attempt at night 🌃. I enjoy learning new technologies and building fun projects with JavaScript, React, Node.js and more.
-      </p>
-    </td>
-     <td align="center" valign="middle" rowspan="2">
-      <img src="IPPOGOD.gif" width="425" alt="Ippo"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="middle">
-      <p>
-        <em><b>Frontend:</b></em> HTML, CSS, JavaScript, TailwindCSS, Bootstrap <br/>
-        <em><b>Backend:</b></em> Node.js, Express, Java, PHP <br/>
-        <em><b>Databases:</b></em> MySQL, MongoDB, Supabase <br/>
-        <em><b>Learning:</b></em> React, Astro & AWS
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p align="left">
+    Hello There! <em><b>I'm Andy Espino</b></em>, a student by day 🌞 and an aspiring developer at night 🌃. I enjoy learning new technologies and building fun projects with JavaScript, React, Node.js and more.
+  </p>
+  
+  <p align="left">
+    <em><b>Frontend:</b></em> HTML, CSS, JavaScript, TailwindCSS, Bootstrap <br/>
+    <em><b>Backend:</b></em> Node.js, Express, Java, PHP <br/>
+    <em><b>Databases:</b></em> MySQL, MongoDB, Supabase <br/>
+    <em><b>Learning:</b></em> React, Astro & AWS
+  </p>
+
+  <p align="center">
+    <img src="IPPOGOD.gif" width="425" style="max-width:100%;" alt="Ippo"/>
+  </p>
+</div>
 
 <br/>
 <br/>
-<h2 align="center"><em> Technologies </em> </h2>
+<h2 align="center"><em>Technologies</em></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -69,7 +63,7 @@
 
 <br/>
 
-<h2 align="center"><em> Learning </em> </h2>
+<h2 align="center"><em>Learning</em></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
