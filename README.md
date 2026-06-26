@@ -34,9 +34,9 @@
     <em><b>Learning:</b></em> React, Astro & AWS
   </p>
 
-  <p align="center">
-    <img src="IPPOGOD.gif" width="425" style="max-width:100%;" alt="Ippo"/>
-  </p>
+ <p align="center">
+    <img src="IPPOGOD_banner.gif" width="100%" alt="Ippo"/>
+</p>
 </div>
 
 <br/>
