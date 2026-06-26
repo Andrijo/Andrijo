@@ -1,4 +1,6 @@
-<img src="GODPIECE.png" alt="God Piece"/>
+<p align="center">
+    <img src="GODPIECE_banner.png" width="100%" alt="Luffy"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vndrijo/" target="_blank">
